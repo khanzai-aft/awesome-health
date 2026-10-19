@@ -34,22 +34,23 @@ Understanding of Human Function
 ### Exercise
 
 - [DAREBEE](https://darebee.com/) - A free independent global fitness resource based on researched and tested info. Website includes exercise programs, individual workouts, challenges, running info, videos, themed weeks/events, and a community to stay accountable and motivated.
-- [100 Places](https://youtu.be/75nQy1ICSVc) - Video playlist demonstrating different places/objects to do pull-ups and dips.
+- [100 Places](https://youtu.be/75nQyI1CSVc) - Video playlist demonstrating different places/objects to do pull-ups and dips.
 - [Common Mistakes in Yoga](https://www.yogabycandace.com/common-mistakes-in-yoga-poses/) - Series by [YogaByCandace blog](https://www.yogabycandace.com/) illustrating and explaining common mistakes in popular yoga poses.
 - [Mobility Myths](https://www.youtube.com/playlist?list=PL1rSl6Pd49IkoHoX5QCEJe0MFNhWZ6K7c) - Video playlist where Dr. Quinn Henoch discusses causes and corrections for common mobility misconceptions.
 - [Exercise Safety Tips for the Warm Weather](https://www.atipt.com/blog/exercise-safety-tips-for-the-warm-weather) - Article by ATI Physical Therapy going over safety tips to keep in mind when exercising in the heat, plus symptoms of heat illness.
+- [Army Fitness Test Calculator](https://www.armyfitnesstestcalculator.com/) - Free calculator that scores the Army Fitness Test using the Army's official scoring tables, plus AFT standards guides and related Army fitness calculators.
 
 ### Mental Health
 
 - [List of Suicide Crisis Lines](https://en.wikipedia.org/wiki/List_of_suicide_crisis_lines) - International crisis hotlines by listed by country including specialized demographic hotlines.
 - [Mental Health Hackers](https://mentalhealthhackers.org) - A nonprofit organization striving to reach out to other hackers in the community to improve our mental health and learn to help our family and friends.
 - [Awesome Mental Health](https://github.com/dreamingechoes/awesome-mental-health) - A curated list of awesome articles, websites and resources about mental health in the software industry.
-- [6 Tips for Curing Your Scatterbrain](https://www.wellbeing.com.au/mind-spirit/mind/focus-your-mind-and-cure-that-scatterbrain.html) - Article featured by Wellbeing magazine on ways to calm your mind so you can focus on a task.
+- [6 Tips for Curing Your Scatterbrain](https://www.wellbeing.com.au/mind-spirit/mind/focus-your-mind-cure-that-scatterbrain.html) - Article featured by Wellbeing magazine on ways to calm your mind so you can focus on a task.
 - [How a Dollar Store Notebook Helped My Adult ADD](https://chachingonashoestring.com/2014/03/06/how-a-dollar-store-notebook-helped-my-adult-add/) - Article by [Cha-Ching on a Shoestring](https://chachingonashoestring.com) blog on a simple lifehack to tackle your to-do list.
 
 ### Not Feeling Well
 
-- [Heart Palpitations in a Healthy Heart](http://www.heartmdinstitute.com/126-hmd-root/hmd-articles/494-worried-about-heart-palpitations#!kmt-start=10) - Explains what causes & how to lessen palpitations in a healthy heart.
+- [Heart Palpitations in a Healthy Heart](http://www.heartmdinstitute.com/126-hmd-root/hmd-articles/494-worried-about-heart-palpitations#lkmt-start=10) - Explains what causes & how to lessen palpitations in a healthy heart.
 
 ### Specific Diets
 
