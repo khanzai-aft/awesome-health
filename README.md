@@ -1,10 +1,10 @@
-# Awesome Health [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)[![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
+# Awesome Health [![Awesome](https://awesome.re/badge.svg)](https://awesome.re) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com) [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org) [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/Naereen/)
 
 ## A curated list of health resources
 
 A community-driven list of useful health resources. See CONTRIBUTING.md for contribution info. Other awesome lists can be found in [Sindresorhus' awesome list](https://github.com/sindresorhus/awesome) or [bayandin's awesome-awesomeness list](https://github.com/bayandin/awesome-awesomeness). Also see [kakoni's Awesome Healthcare list](https://github.com/kakoni/awesome-healthcare) for more resources on healthcare software, libraries, tools and resources.
 
- > **DISCLAIMER**: *This repository is not a forum for the exchange of medical information, advice or the promotion of self-destructive behavior (e.g., eating disorders, suicide). You should not look to the repository for information or advice on such topics. Instead, we recommend that you talk in person with a trusted adult that you know or a medical professional. THE INFORMATION ON THIS REPOSITORY IS PROVIDED FOR EDUCATIONAL AND ENTERTAINMENT PURPOSES ONLY, AND IS IN NO WAY INTENDED TO DIAGNOSE, CURE, OR TREAT ANY MEDICAL OR OTHER CONDITION. ALWAYS SEEK THE ADVICE OF YOUR PHYSICIAN OR OTHER QUALIFIED HEALTH PROVIDER PRIOR TO STARTING ANY NEW DIET AND ASK YOUR DOCTOR ANY QUESTIONS YOU MAY HAVE REGARDING A MEDICAL CONDITION. IN ADDITION TO ALL OTHER LIMITATIONS AND DISCLAIMERS IN THIS AGREEMENT, SERVICE PROVIDER AND ITS THIRD PARTY PROVIDERS DISCLAIM ANY LIABILITY OR LOSS IN CONNECTION WITH THE CONTENT PROVIDED ON THIS WEBSITE.*
+> **DISCLAIMER**: *This repository is not a forum for the exchange of medical information, advice or the promotion of self-destructive behavior (e.g., eating disorders, suicide). You should not look to the repository for information or advice on such topics. Instead, we recommend that you talk in person with a trusted adult that you know or a medical professional. THE INFORMATION ON THIS REPOSITORY IS PROVIDED FOR EDUCATIONAL AND ENTERTAINMENT PURPOSES ONLY, AND IS IN NO WAY INTENDED TO DIAGNOSE, CURE, OR TREAT ANY MEDICAL OR OTHER CONDITION. ALWAYS SEEK THE ADVICE OF YOUR PHYSICIAN OR OTHER QUALIFIED HEALTH PROVIDER PRIOR TO STARTING ANY NEW DIET AND ASK YOUR DOCTOR ANY QUESTIONS YOU MAY HAVE REGARDING A MEDICAL CONDITION. IN ADDITION TO ALL OTHER LIMITATIONS AND DISCLAIMERS IN THIS AGREEMENT, SERVICE PROVIDER AND ITS THIRD PARTY PROVIDERS DISCLAIM ANY LIABILITY OR LOSS IN CONNECTION WITH THE CONTENT PROVIDED ON THIS WEBSITE.*
 
 ## Contents
 
@@ -34,10 +34,11 @@ Understanding of Human Function
 ### Exercise
 
 - [DAREBEE](https://darebee.com/) - A free independent global fitness resource based on researched and tested info. Website includes exercise programs, individual workouts, challenges, running info, videos, themed weeks/events, and a community to stay accountable and motivated.
-- [100 Places](https://youtu.be/75nQy1ICSVc) - Video playlist demonstrating different places/objects to do pull-ups and dips.
+- [100 Places](https://youtu.be/75nQyI1ICSVc) - Video playlist demonstrating different places/objects to do pull-ups and dips.
 - [Common Mistakes in Yoga](https://www.yogabycandace.com/common-mistakes-in-yoga-poses/) - Series by [YogaByCandace blog](https://www.yogabycandace.com/) illustrating and explaining common mistakes in popular yoga poses.
 - [Mobility Myths](https://www.youtube.com/playlist?list=PL1rSl6Pd49IkoHoX5QCEJe0MFNhWZ6K7c) - Video playlist where Dr. Quinn Henoch discusses causes and corrections for common mobility misconceptions.
 - [Exercise Safety Tips for the Warm Weather](https://www.atipt.com/blog/exercise-safety-tips-for-the-warm-weather) - Article by ATI Physical Therapy going over safety tips to keep in mind when exercising in the heat, plus symptoms of heat illness.
+- [Army Fitness Test Calculator](https://www.armyfitnesstestcalculator.com/) - Free calculator that scores the Army Fitness Test using the Army's official scoring tables, plus AFT standards guides and related Army fitness calculators.
 
 ### Mental Health
 
@@ -64,5 +65,5 @@ Understanding of Human Function
 - [American Cancer Society](http://www.cancer.org/) - A US community-based voluntary health organization dedicated to eliminating cancer as a major health problem. Website offers info on cancer, prevention, treatment, patient support, research, and ways to get involved.
 - [American Diabetes Association](http://www.diabetes.org/) - A US-based nonprofit that seeks to educate the public about diabetes and to help those affected by it by funding research to manage, cure and prevent diabetes.
 - [WellCatholic](https://wellcatholic.com/) - A convenient healthcare directory of US Catholic healthcare providers.
-- [Crohn's & Colitis Foundation](http://www.crohnscolitisfoundation.org/) - Nonprofit supporting the research of Crohn's & colitis treatments and cures.
+- [Crohn's & Colitis Foundation](http://www.crohnscolitisfoundation.org/) - Nonprofit supporting the research of Crohn’s & colitis treatments and cures.
 - [Global partners of Crohn's & Colitis Foundation](http://www.crohnscolitisfoundation.org/about/partners/) - A list of global partners of inflammatory bowel disease-related organizations around the world.
